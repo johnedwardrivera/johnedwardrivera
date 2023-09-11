@@ -29,7 +29,12 @@
   <img align="center" alt="Rafa-postgresql" height="30" width="40" src="https://devicon-website.vercel.app/api/postgresql/original.svg"> 
    <img align="center" alt="Rafa-redux" height="30" width="40" src="https://devicon-website.vercel.app/api/redux/original.svg"> 
    <img align="center" alt="Rafa-sequelize" height="30" width="40" src="https://devicon-website.vercel.app/api/sequelize/original.svg"> 
-   <img align="center" alt="Rafa-php" height="30" width="40" src="https://devicon-website.vercel.app/api/php/original.svg">
+   <img align="center" alt="Rafa-php" height="30" width="40" src="https://devicon-website.vercel.app/api/php/original.svg"> 
+   <img align="center" alt="Rafa-bootstrap" height="30" width="40" src="https://devicon-website.vercel.app/api/bootstrap/original.svg"> 
+   <img align="center" alt="Rafa-docker" height="30" width="40" src="https:https://devicon-website.vercel.app/api/docker/original.svg"> 
+   <img align="center" alt="Rafa-express" height="30" width="40" src="https://devicon-website.vercel.app/api/express/original.svg"> 
+   <img align="center" alt="Rafa-graphql" height="30" width="40" src="https://devicon-website.vercel.app/api/graphql/plain.svg"> 
+   <img align="center" alt="Rafa-java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">
 </div>
   
   ##
