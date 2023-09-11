@@ -6,6 +6,7 @@
 - 🌱 Estudiando React JS 
 - 💬 Contactame en mi email: edwardrivera0294@gmail.com
 - 😄 Pronouns: edwardriveranaranjo
+- <img src="https://s3.amazonaws.com/thumbnails.venngage.com/template/b62908cb-3cf7-4ae9-8c38-46d078a11d31.png">
 - <div align="center">  
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer...<3;Back-End+Developer..<3"></a>
   <a href="https://github.com/johnedwardrivera">
