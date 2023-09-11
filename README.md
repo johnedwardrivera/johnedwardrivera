@@ -1,4 +1,4 @@
-### Hola bienvenido a mi repositorio 
+### Hola bienvenido a mi repositorio soy edward rivera😄
 
 
 - 🔭 Hoja de trabajo con Front-End y Back-End
