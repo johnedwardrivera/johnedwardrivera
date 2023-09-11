@@ -35,9 +35,9 @@
    <img align="center" alt="Rafa-express" height="30" width="40" src="https://devicon-website.vercel.app/api/express/original.svg"> 
    <img align="center" alt="Rafa-graphql" height="30" width="40" src="https://devicon-website.vercel.app/api/graphql/plain.svg"> 
    <img align="center" alt="Rafa-java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">  
-   <img align="center" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+  
 </div> 
-
+ <img align="center" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
   
   ##
   <div>
