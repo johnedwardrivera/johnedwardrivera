@@ -1,7 +1,8 @@
 ### Hola bienvenido a mi repositorio 
 
 
-- 🔭 Hoja de trabajo con front-end
+- 🔭 Hoja de trabajo con front-end y back end
+- 🔭 Full Stack Developer
 - 🌱 Estudiando React JS 
 - 💬 Contactame en mi email: edwardrivera0294@gmail.com
 - 😄 Pronouns: edwardriveranaranjo
