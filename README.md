@@ -24,7 +24,12 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-   <img align="center" alt="Rafa-MongoDB" height="30" width="40" src="https://devicon-website.vercel.app/api/mongodb/original.svg">
+   <img align="center" alt="Rafa-MongoDB" height="30" width="40" src="https://devicon-website.vercel.app/api/mongodb/original.svg"> 
+   <img align="center" alt="Rafa-MySQL" height="30" width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg"> 
+  <img align="center" alt="Rafa-postgresql" height="30" width="40" src="https://devicon-website.vercel.app/api/postgresql/original.svg"> 
+   <img align="center" alt="Rafa-redux" height="30" width="40" src="https://devicon-website.vercel.app/api/redux/original.svg"> 
+   <img align="center" alt="Rafa-sequelize" height="30" width="40" src="https://devicon-website.vercel.app/api/sequelize/original.svg"> 
+   <img align="center" alt="Rafa-php" height="30" width="40" src="https://devicon-website.vercel.app/api/php/original.svg">
 </div>
   
   ##
