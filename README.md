@@ -1,6 +1,6 @@
 ### Hola bienvenido a mi repositorio soy edward rivera😄
 
-  <img src="[https://s3.amazonaws.com/thumbnails.venngage.com/template/b62908cb-3cf7-4ae9-8c38-46d078a11d31.png](https://media.licdn.com/dms/image/D4E16AQEflKyXYp3j_g/profile-displaybackgroundimage-shrink_350_1400/0/1706215890939?e=1712793600&v=beta&t=COyMVY4kWMsENhxMPf1L5XzSLixLT55-6BXhQbNEKQs)">
+  <img src="https://img.freepik.com/vector-gratis/ilustracion-composicion-concepto-isometrico-desarrollo-web_1284-55922.jpg?size=626&ext=jpg&ga=GA1.1.87170709.1707177600&semt=ais">](https://img.freepik.com/vector-gratis/ilustracion-composicion-concepto-isometrico-desarrollo-web_1284-55922.jpg?size=626&ext=jpg&ga=GA1.1.87170709.1707177600&semt=ais)
 
 - 🔭 Hoja de trabajo con Front-End y Back-End
 - 🔭 Full Stack Developer
