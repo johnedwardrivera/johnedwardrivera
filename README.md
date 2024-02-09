@@ -7,7 +7,7 @@
 - 💬 Contactame en mi email: edwardrivera0294@gmail.com
 - 💬 Linkedin: www.linkedin.com/in/john-edward-rivera-naranjo-5a5031220
 
-- 😄 Pronouns: edwardriveranaranjo
+- 😄 Pronouns: jhonedwardriveranaranjo
 - <div align="center">  
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer...<3;Back-End+Developer..<3"></a>  
  <img align="center" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
