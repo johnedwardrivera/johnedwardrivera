@@ -1,4 +1,5 @@
-### Hola, edward 👾
+### Hola, edward 👾 
+### Full stack web developer* 
 
 Full Stack Developer me gradué en estudios técnicos y tecnológicos que me han ayudado a adquirir habilidades para 
 asumir nuevos retos. Lideré la creación de un E-commerce para la venta de productos para mascotas. Especializado en 
