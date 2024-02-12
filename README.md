@@ -27,7 +27,7 @@ ____________________
 🚀 Technologies: 
 React - Redux - TaiwinCSS - Express - Node.js - Auth0 - Nodemailer - PostgreSQL - Sequelize  
 
-[![Captura-de-pantalla-2024-02-12-154504.png](https://i.postimg.cc/yYvV1Qnk/Captura-de-pantalla-2024-02-12-154504.png)](https://postimg.cc/56QcpmhV width= "350px")
+<img [![Captura-de-pantalla-2024-02-12-154504.png](https://i.postimg.cc/yYvV1Qnk/Captura-de-pantalla-2024-02-12-154504.png)](https://postimg.cc/56QcpmhV width= )>
 
 
 <div style="display: inline_block"><br>
