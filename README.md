@@ -1,6 +1,12 @@
 ### Hola bienvenido a mi repositorio soy edward rivera😄
 
-holaaaaaa
+Full Stack Developer me gradué en estudios técnicos y tecnológicos que me han ayudado a adquirir habilidades para 
+asumir nuevos retos. Lideré la creación de un E-commerce para la venta de productos para mascotas. Especializado en 
+Front-end y Back-end, con conocimientos en metodologías ágiles, GIT, estructuras de datos, análisis de datos masivos, 
+algoritmos y frameworks CSS. Además, tengo experiencia en el desarrollo tanto de Front End como de Back End, así 
+como en la arquitectura de datos. Poseo habilidades en pensamiento creativo, resolución de problemas, trabajo en 
+equipo, comunicación y autonomía. 
+
 - 🔭 Hoja de trabajo con Front-End y Back-End
 - 🔭 Full Stack Developer
 - 🌱 Estudiando React JS 
