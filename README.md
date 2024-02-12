@@ -1,6 +1,6 @@
 ### Hola bienvenido a mi repositorio soy edward rivera😄
 
-
+holaaaaaa
 - 🔭 Hoja de trabajo con Front-End y Back-End
 - 🔭 Full Stack Developer
 - 🌱 Estudiando React JS 
