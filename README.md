@@ -30,8 +30,7 @@ React - Redux - TaiwinCSS - Express - Node.js - Auth0 - Nodemailer - PostgreSQL 
 
 [![Captura-de-pantalla-2024-02-12-165559.png](https://i.postimg.cc/wMWPGct3/Captura-de-pantalla-2024-02-12-165559.png)](https://postimg.cc/9w7J49Yj)
 
-[![Captura-de-pantalla-2024-02-12-171418.png](https://i.postimg.cc/kgH18g83/Captura-de-pantalla-2024-02-12-171418.png)](https://postimg.cc/zynFY500) 
-
+[![Captura-de-pantalla-2024-02-12-171418.png](https://i.postimg.cc/056BkmJG/Captura-de-pantalla-2024-02-12-171418.png)](https://postimg.cc/XXb8xrLX)
 [![Captura-de-pantalla-2024-02-12-165105.png](https://i.postimg.cc/rFXtdXzn/Captura-de-pantalla-2024-02-12-165105.png)](https://postimg.cc/s1m28LY7)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
