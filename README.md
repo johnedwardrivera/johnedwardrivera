@@ -28,8 +28,7 @@ ____________________
 🚀 Technologies: 
 React - Redux - TaiwinCSS - Express - Node.js - Auth0 - Nodemailer - PostgreSQL - Sequelize   
 
-[![Captura-de-pantalla-2024-02-12-154504.png](https://i.postimg.cc/rpcTBjnw/Captura-de-pantalla-2024-02-12-154504.png)](https://postimg.cc/pm038fMw)
-
+[![Captura-de-pantalla-2024-02-12-165559.png](https://i.postimg.cc/L8ydWS1N/Captura-de-pantalla-2024-02-12-165559.png)](https://postimg.cc/WdJfDQSk)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
