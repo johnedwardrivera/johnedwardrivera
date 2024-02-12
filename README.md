@@ -5,7 +5,14 @@ asumir nuevos retos. Lideré la creación de un E-commerce para la venta de prod
 Front-end y Back-end, con conocimientos en metodologías ágiles, GIT, estructuras de datos, análisis de datos masivos, 
 algoritmos y frameworks CSS. Además, tengo experiencia en el desarrollo tanto de Front End como de Back End, así 
 como en la arquitectura de datos. Poseo habilidades en pensamiento creativo, resolución de problemas, trabajo en 
-equipo, comunicación y autonomía. 
+equipo, comunicación y autonomía.  
+
+<div align="center">  
+ <img align="center" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+  <a href="https://github.com/johnedwardrivera">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnedwardrivera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnedwardrivera&layout=compact&langs_count=7&theme=dracula"/>
+</div> 
 
 ## Checkout my work 
 👇
