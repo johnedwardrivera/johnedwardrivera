@@ -26,9 +26,10 @@ ____________________
 📌 Comercio electrónico desarrollado para la venta de productos de tiendas de mascotas y  facilitar la búsqueda para encontrar un paseador favorito. 
 
 🚀 Technologies: 
-React - Redux - TaiwinCSS - Express - Node.js - Auth0 - Nodemailer - PostgreSQL - Sequelize  
+React - Redux - TaiwinCSS - Express - Node.js - Auth0 - Nodemailer - PostgreSQL - Sequelize   
 
-[![Captura-de-pantalla-2024-02-12-154504.png](https://i.postimg.cc/sgGCQ88X/Captura-de-pantalla-2024-02-12-154504.png)](https://postimg.cc/0zvBht9R)
+[![Captura-de-pantalla-2024-02-12-154504.png](https://i.postimg.cc/rpcTBjnw/Captura-de-pantalla-2024-02-12-154504.png)](https://postimg.cc/pm038fMw)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
