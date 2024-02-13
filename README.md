@@ -34,7 +34,6 @@ React - Redux - TaiwinCSS - Express - Node.js - Auth0 - Nodemailer - PostgreSQL 
 
 [![Captura-de-pantalla-2024-02-12-165105.png](https://i.postimg.cc/rFXtdXzn/Captura-de-pantalla-2024-02-12-165105.png)](https://postimg.cc/s1m28LY7)  
 
-[![Captura-de-pantalla-2024-02-13-101525.png](https://i.postimg.cc/YCXP4877/Captura-de-pantalla-2024-02-13-101525.png)](https://postimg.cc/cvnh2R6k)
 
 ____________________
 ## Gestión proyecto Investigación  
@@ -47,7 +46,9 @@ ____________________
 
 [![Captura-de-pantalla-2024-02-13-100956.png](https://i.postimg.cc/R0cFR3Zg/Captura-de-pantalla-2024-02-13-100956.png)](https://postimg.cc/CZxSMxD8) 
 
-[![Captura-de-pantalla-2024-02-13-101317.png](https://i.postimg.cc/qMs6wZDs/Captura-de-pantalla-2024-02-13-101317.png)](https://postimg.cc/mtrr2Vsk)
+[![Captura-de-pantalla-2024-02-13-101317.png](https://i.postimg.cc/qMs6wZDs/Captura-de-pantalla-2024-02-13-101317.png)](https://postimg.cc/mtrr2Vsk) 
+
+[![Captura-de-pantalla-2024-02-13-101525.png](https://i.postimg.cc/YCXP4877/Captura-de-pantalla-2024-02-13-101525.png)](https://postimg.cc/cvnh2R6k)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
