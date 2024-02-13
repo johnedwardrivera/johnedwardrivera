@@ -32,7 +32,9 @@ React - Redux - TaiwinCSS - Express - Node.js - Auth0 - Nodemailer - PostgreSQL 
 
 [![Captura-de-pantalla-2024-02-12-165559.png](https://i.postimg.cc/L8ydWS1N/Captura-de-pantalla-2024-02-12-165559.png)](https://postimg.cc/WdJfDQSk) 
 
-[![Captura-de-pantalla-2024-02-12-165105.png](https://i.postimg.cc/rFXtdXzn/Captura-de-pantalla-2024-02-12-165105.png)](https://postimg.cc/s1m28LY7) 
+[![Captura-de-pantalla-2024-02-12-165105.png](https://i.postimg.cc/rFXtdXzn/Captura-de-pantalla-2024-02-12-165105.png)](https://postimg.cc/s1m28LY7)  
+
+[![Captura-de-pantalla-2024-02-13-101525.png](https://i.postimg.cc/YCXP4877/Captura-de-pantalla-2024-02-13-101525.png)](https://postimg.cc/cvnh2R6k)
 
 ____________________
 ## Gestión proyecto Investigación  
