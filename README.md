@@ -48,7 +48,9 @@ ____________________
 
 [![Captura-de-pantalla-2024-02-13-101317.png](https://i.postimg.cc/qMs6wZDs/Captura-de-pantalla-2024-02-13-101317.png)](https://postimg.cc/mtrr2Vsk) 
 
-[![Captura-de-pantalla-2024-02-13-101525.png](https://i.postimg.cc/YCXP4877/Captura-de-pantalla-2024-02-13-101525.png)](https://postimg.cc/cvnh2R6k)
+[![Captura-de-pantalla-2024-02-13-101525.png](https://i.postimg.cc/YCXP4877/Captura-de-pantalla-2024-02-13-101525.png)](https://postimg.cc/cvnh2R6k) 
+
+[![Captura-de-pantalla-2024-02-13-101707.png](https://i.postimg.cc/Jn1WwxbB/Captura-de-pantalla-2024-02-13-101707.png)](https://postimg.cc/yJrGcFpV)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
