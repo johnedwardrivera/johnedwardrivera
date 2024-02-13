@@ -52,13 +52,6 @@ ____________________
 
 [![Captura-de-pantalla-2024-02-13-101954.png](https://i.postimg.cc/25RjV4f0/Captura-de-pantalla-2024-02-13-101954.png)](https://postimg.cc/XrL6PBq5) 
 
-___________________________________________
-
-## 📫 CONTACT ME 
-
-Have a question or want to work together? 
-
-**Email:** edwardrivera0294@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -90,4 +83,16 @@ Have a question or want to work together?
   <a href="https://www.linkedin.com/in/john-edward-rivera-naranjo-5a5031220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </div>
   
-   ![Snake animation](https://github.com/johnedwardrivera/johnedwardrivera/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/johnedwardrivera/johnedwardrivera/blob/output/github-contribution-grid-snake.svg) 
+
+   ___________________________________________
+
+## 📫 CONTACT ME 
+
+Have a question or want to work together? 
+
+**Email:** edwardrivera0294@gmail.com 
+
+<a href="https://www.linkedin.com/in/john-edward-rivera-naranjo-5a5031220/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/john-edward-rivera-naranjo-5a5031220/" height="30" width="40" /></a>
+
