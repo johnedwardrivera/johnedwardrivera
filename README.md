@@ -32,7 +32,16 @@ React - Redux - TaiwinCSS - Express - Node.js - Auth0 - Nodemailer - PostgreSQL 
 
 [![Captura-de-pantalla-2024-02-12-165559.png](https://i.postimg.cc/L8ydWS1N/Captura-de-pantalla-2024-02-12-165559.png)](https://postimg.cc/WdJfDQSk) 
 
-[![Captura-de-pantalla-2024-02-12-165105.png](https://i.postimg.cc/rFXtdXzn/Captura-de-pantalla-2024-02-12-165105.png)](https://postimg.cc/s1m28LY7)
+[![Captura-de-pantalla-2024-02-12-165105.png](https://i.postimg.cc/rFXtdXzn/Captura-de-pantalla-2024-02-12-165105.png)](https://postimg.cc/s1m28LY7) 
+
+____________________
+## Gestión proyecto Investigación  
+
+📌 Diseñar y desarrollar una aplicación administrativa para un centro educativo universitario, que permita llevar un control sobre nuevos proyectos, el avance en la entrega de los mismos y las calificaciones 
+
+🚀 React - Bootstrap - Api res GraphQL - MongoDB - Apollo serve 
+
+🎨 Mock-up: balsamiq
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
