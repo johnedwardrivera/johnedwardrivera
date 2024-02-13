@@ -41,7 +41,9 @@ ____________________
 
 🚀 React - Bootstrap - Api res GraphQL - MongoDB - Apollo serve 
 
-🎨 Mock-up: balsamiq
+🎨 Mock-up: balsamiq 
+
+[![Captura-de-pantalla-2024-02-13-100956.png](https://i.postimg.cc/R0cFR3Zg/Captura-de-pantalla-2024-02-13-100956.png)](https://postimg.cc/CZxSMxD8)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
