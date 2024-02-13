@@ -50,7 +50,15 @@ ____________________
 
 [![Captura-de-pantalla-2024-02-13-101525.png](https://i.postimg.cc/YCXP4877/Captura-de-pantalla-2024-02-13-101525.png)](https://postimg.cc/cvnh2R6k) 
 
-[![Captura-de-pantalla-2024-02-13-101954.png](https://i.postimg.cc/25RjV4f0/Captura-de-pantalla-2024-02-13-101954.png)](https://postimg.cc/XrL6PBq5)
+[![Captura-de-pantalla-2024-02-13-101954.png](https://i.postimg.cc/25RjV4f0/Captura-de-pantalla-2024-02-13-101954.png)](https://postimg.cc/XrL6PBq5) 
+
+___________________________________________
+
+## 📫 CONTACT ME 
+
+Have a question or want to work together? 
+
+**Email:** edwardrivera0294@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
