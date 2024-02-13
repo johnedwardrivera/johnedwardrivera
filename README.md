@@ -1,4 +1,4 @@
-### Hola, edward 👾 
+### Hi there, I'm  edward! 👾 
 ### Full stack web developer* 
 
 Full Stack Developer me gradué en estudios técnicos y tecnológicos que me han ayudado a adquirir habilidades para 
