@@ -1,4 +1,8 @@
-### Hi there, I'm  edward! 👾 
+### Hi there, I'm  edward! 👾  
+
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
+</p>
 ### Full stack web developer* 
 
 Full Stack Developer me gradué en estudios técnicos y tecnológicos que me han ayudado a adquirir habilidades para 
