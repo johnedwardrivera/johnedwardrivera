@@ -5,7 +5,8 @@
 </p>
 
 </a>
-     <a href="https://www.youtube.com/channel/UCKqLZq8lzv-Qo-1XLFNl9cA">
+     <a href="https://www.youtube.com/channel/UCKqLZq8lzv-Qo-1XLFNl9cA"> 
+        <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCpCzS_uKS1zzOAUjuuBNXDQ">
     </a>
 Full stack web developer
 
