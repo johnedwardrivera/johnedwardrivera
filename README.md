@@ -4,7 +4,10 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a> 
 </p>
 
- <a href="https://instagram.com/riveraedward242" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://youtu.be/HZJEr4qTmv4?si=uX13LTqkWBDVvCsm" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+
+ 
+ <br>
 Full stack web developer
 
 Full Stack Developer me gradué en estudios técnicos y tecnológicos que me han ayudado a adquirir habilidades para 
