@@ -4,10 +4,7 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a> 
 </p>
 
-</a>
-     <a href="https://www.youtube.com/channel/UCKqLZq8lzv-Qo-1XLFNl9cA"> 
-         <img align="center" alt="Rafa-Youtube" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-plain.svg">
-    </a>
+ <a href="https://instagram.com/riveraedward242" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 Full stack web developer
 
 Full Stack Developer me gradué en estudios técnicos y tecnológicos que me han ayudado a adquirir habilidades para 
