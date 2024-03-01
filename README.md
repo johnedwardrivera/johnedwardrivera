@@ -6,16 +6,19 @@ asumir nuevos retos. Lideré la creación de un E-commerce para la venta de prod
 Front-end y Back-end, con conocimientos en metodologías ágiles, GIT, estructuras de datos, análisis de datos masivos, 
 algoritmos y frameworks CSS. Además, tengo experiencia en el desarrollo tanto de Front End como de Back End, así 
 como en la arquitectura de datos. Poseo habilidades en pensamiento creativo, resolución de problemas, trabajo en 
-equipo, comunicación y autonomía.  
+equipo, comunicación y autonomía.   
+
+
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=johnedwardrivera&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 <div align="center">  
   <a href="https://github.com/johnedwardrivera">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnedwardrivera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnedwardrivera&theme=radical&hide_border=true"/><br><br>
 
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnedwardrivera&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnedwardrivera&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
