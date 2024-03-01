@@ -8,10 +8,6 @@ algoritmos y frameworks CSS. Además, tengo experiencia en el desarrollo tanto d
 como en la arquitectura de datos. Poseo habilidades en pensamiento creativo, resolución de problemas, trabajo en 
 equipo, comunicación y autonomía.   
 
-<h2 align="center"> Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs </h2>
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=johnedwardrivera&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p> 
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
@@ -23,7 +19,13 @@ equipo, comunicación y autonomía.
 
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnedwardrivera&layout=compact&langs_count=7&theme=dracula"/>
-</div> 
+</div>  
+
+<h2 align="center"> Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs </h2>
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=johnedwardrivera&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p> 
+
 
 ## Checkout my work 
 👇
