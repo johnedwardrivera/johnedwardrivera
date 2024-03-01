@@ -4,7 +4,7 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a> 
 </p>
 
- <a href="https://youtu.be/HZJEr4qTmv4?si=uX13LTqkWBDVvCsm" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+ <a href="https://youtu.be/HZJEr4qTmv4?si=uX13LTqkWBDVvCsm" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
 
  
  <br>
