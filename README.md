@@ -11,7 +11,9 @@ equipo, comunicación y autonomía.
 <h2 align="center"> Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs </h2>
  <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=johnedwardrivera&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> 
+
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <div align="center">  
   <a href="https://github.com/johnedwardrivera">
@@ -60,6 +62,8 @@ ____________________
 
 [![Captura-de-pantalla-2024-02-13-101954.png](https://i.postimg.cc/25RjV4f0/Captura-de-pantalla-2024-02-13-101954.png)](https://postimg.cc/XrL6PBq5) 
 
+
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
