@@ -6,7 +6,7 @@
 
 </a>
      <a href="https://www.youtube.com/channel/UCKqLZq8lzv-Qo-1XLFNl9cA"> 
-         <img align="center" alt="Rafa-Youtube" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+         <img align="center" alt="Rafa-Youtube" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-plain.svg">
     </a>
 Full stack web developer
 
