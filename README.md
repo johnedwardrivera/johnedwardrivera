@@ -6,7 +6,6 @@
 
 </a>
      <a href="https://www.youtube.com/channel/UCKqLZq8lzv-Qo-1XLFNl9cA">
-         <img alt="YouTube Channel Views" src="https://www.youtube.com/channel/UCKqLZq8lzv-Qo-1XLFNl9cA">
     </a>
 Full stack web developer
 
