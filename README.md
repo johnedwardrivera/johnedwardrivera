@@ -89,6 +89,7 @@ ____________________
 
   
   ##
+  ## 📫 CONTACT ME 
   <div>
   <a href="https://instagram.com/riveraedward242" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "email:edwardrivera0294@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -99,7 +100,6 @@ ____________________
 
    ___________________________________________
 
-## 📫 CONTACT ME 
 
 Have a question or want to work together? 
 
