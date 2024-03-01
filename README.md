@@ -4,6 +4,10 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
 </p>
 
+</a>
+     <a href="https://www.youtube.com/channel/UCKqLZq8lzv-Qo-1XLFNl9cA">
+       <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCpCzS_uKS1zzOAUjuuBNXDQ">
+    </a>
 Full stack web developer
 
 Full Stack Developer me gradué en estudios técnicos y tecnológicos que me han ayudado a adquirir habilidades para 
